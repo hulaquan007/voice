@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VoiceChanger" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FF6FA8</item>
+        <item name="colorPrimaryDark">#E55A92</item>
+        <item name="colorAccent">#FF6FA8</item>
+    </style>
+</resources>
